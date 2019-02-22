@@ -1,11 +1,15 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "space facts",
+      "invocationName": "Universe and Useless of information", //becuase words
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
-          "samples": []
+          "samples": [
+            "I don't care anymore",
+            "This is useless",
+            "Just stop"
+          ],
         },
         {
           "name": "AMAZON.HelpIntent",
@@ -22,20 +26,21 @@
         {
           "name": "GetNewFactIntent",
           "samples": [
-            "a fact",
-            "a space fact",
-            "tell me a fact",
-            "tell me a space fact",
-            "give me a fact",
-            "give me a space fact",
-            "tell me trivia",
-            "tell me a space trivia",
+            //more realsitic
+            "shoot me with knowlage",
+            "a space factoid",
+            "I want to know a space fact",
+            "a fact about space",
+            "annoy other people in the room with a loud comment",
+            "give me the useless information",
+            "tell me something I don't know",
+            "tell me something I don't need",
             "give me trivia",
             "give me a space trivia",
             "give me some information",
             "give me some space information",
-            "tell me something",
-            "give me something"
+            "tell me anything at all",
+            "give me anything"
           ],
           "slots": []
         }

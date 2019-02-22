@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "Universe and Useless of information", 
+      "invocationName": "Tell me information I don't want to know", 
       "intents": [
         {
           "name": "AMAZON.CancelIntent",

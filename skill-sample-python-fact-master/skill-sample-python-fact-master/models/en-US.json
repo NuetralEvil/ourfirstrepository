@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "Universe and Useless of information", //becuase words
+      "invocationName": "Universe and Useless of information", 
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
@@ -26,7 +26,6 @@
         {
           "name": "GetNewFactIntent",
           "samples": [
-            //more realsitic
             "shoot me with knowlage",
             "a space factoid",
             "I want to know a space fact",
